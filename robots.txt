@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://berita-idn-terbaru.github.io/sitemap.xml
